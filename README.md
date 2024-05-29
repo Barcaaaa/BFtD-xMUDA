@@ -1,6 +1,6 @@
 # **Cross-modal Unsupervised Domain Adaptation for 3D Semantic Segmentation via Bidirectional Fusion-then-Distillation [ACM MM 2023 Oral]**
 
-This is the official PyTorch implementation of our work.
+:fire: This is the official PyTorch implementation of our work. :fire:
 
 > [**Cross-modal Unsupervised Domain Adaptation for 3D Semantic Segmentation via Bidirectional Fusion-then-Distillation**](https://doi.org/10.1145/3581783.3612013)       
 > [Yao Wu](https://scholar.google.com.hk/citations?user=QYbmS-YAAAAJ&hl=zh-CN), Mingwei Xing, Yachao Zhang, Yuan Xie, Jianping Fan, Zhongchao Shi, Yanyun Qu  
@@ -8,6 +8,10 @@ This is the official PyTorch implementation of our work.
 
 ## Overview
 ![framework](doc/framework.jpg)
+
+## News
+* **2024-05-29** :notebook: We provide full PDF w/ supplementary material of BFtD-xMUDA.
+* **2024-04-10** :rocket: We release the code for BFtD-xMUDA.
 
 ## Getting Started
 
