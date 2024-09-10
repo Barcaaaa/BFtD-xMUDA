@@ -10,7 +10,7 @@
 ![framework](doc/framework.jpg)
 
 ## News
-* **2024-09-10** :rocket: We release the code for FtD-PlusPlus. **It's an extended version of this repo!**. You can follow it for better performance.
+* **2024-09-10** :rocket: We release the code for [FtD-PlusPlus](https://github.com/Barcaaaa/FtD-PlusPlus). **It's an extended version of this repo!**. Please follow it for better performance.
 * **2024-07-21** :loudspeaker: Our work, CLIP2UDA, has been accepted by ACM MM 2024. (https://github.com/Barcaaaa/CLIP2UDA)
 * **2024-05-29** :notebook: We provide full PDF w/ supplementary material of BFtD-xMUDA.
 * **2024-04-10** :rocket: We release the code for BFtD-xMUDA.
