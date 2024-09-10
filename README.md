@@ -3,13 +3,14 @@
 :fire: This is the official PyTorch implementation of our work. :fire:
 
 > [**Cross-modal Unsupervised Domain Adaptation for 3D Semantic Segmentation via Bidirectional Fusion-then-Distillation**](https://doi.org/10.1145/3581783.3612013)       
-> [Yao Wu](https://scholar.google.com.hk/citations?user=QYbmS-YAAAAJ&hl=zh-CN), Mingwei Xing, Yachao Zhang, Yuan Xie, Jianping Fan, Zhongchao Shi, Yanyun Qu  
+> [Yao Wu](https://barcaaaa.github.io/), Mingwei Xing, Yachao Zhang, Yuan Xie, Jianping Fan, Zhongchao Shi, Yanyun Qu  
 > *Published in: Proceedings of the 31st ACM International Conference on Multimedia (ACM MM), 2023.*
 
 ## Overview
 ![framework](doc/framework.jpg)
 
 ## News
+* **2024-09-10** :rocket: We release the code for FtD-PlusPlus. **It's an extended version of this repo!**. You can follow it for better performance.
 * **2024-07-21** :loudspeaker: Our work, CLIP2UDA, has been accepted by ACM MM 2024. (https://github.com/Barcaaaa/CLIP2UDA)
 * **2024-05-29** :notebook: We provide full PDF w/ supplementary material of BFtD-xMUDA.
 * **2024-04-10** :rocket: We release the code for BFtD-xMUDA.
